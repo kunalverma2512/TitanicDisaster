@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+WIL1.md
+journey.md
+src/advanced_train.py
+submissions/submission_logistic.csv
+submissions/submission_tree.csv
+submissions/submission_2.csv
+submissions/submission_advanced_champion.csv
